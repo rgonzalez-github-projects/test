@@ -8,5 +8,10 @@ namespace ConsoleApp1
 {
     class Feature_1
     {
+        public int add()
+        {
+            int x = 1;
+            return x;
+        }
     }
 }
